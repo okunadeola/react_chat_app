@@ -1,0 +1,9 @@
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+  height: 80%;
+  position: absolute;
+  top: 0;
+  margin-bottom: 40px;
+}
